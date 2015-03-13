@@ -1,0 +1,8 @@
+D:\htang\Projects2\HostTools\HostTools\HostToolService\bin\Debug\HostToolService.exe.config
+D:\htang\Projects2\HostTools\HostTools\HostToolService\bin\Debug\HostToolService.exe
+D:\htang\Projects2\HostTools\HostTools\HostToolService\bin\Debug\HostToolService.pdb
+D:\htang\Projects2\HostTools\HostTools\HostToolService\bin\Debug\Newtonsoft.Json.dll
+D:\htang\Projects2\HostTools\HostTools\HostToolService\bin\Debug\Newtonsoft.Json.xml
+D:\htang\Projects2\HostTools\HostTools\HostToolService\obj\Debug\HostToolService.csprojResolveAssemblyReference.cache
+D:\htang\Projects2\HostTools\HostTools\HostToolService\obj\Debug\HostToolService.exe
+D:\htang\Projects2\HostTools\HostTools\HostToolService\obj\Debug\HostToolService.pdb

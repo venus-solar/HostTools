@@ -1,0 +1,15 @@
+D:\htang\Projects2\HostTools\HostTools\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache
+D:\htang\Projects2\HostTools\HostTools\Temp\bin\Debug\Assembly-CSharp.dll
+D:\htang\Projects2\HostTools\HostTools\Temp\bin\Debug\Assembly-CSharp.pdb
+D:\htang\Projects2\HostTools\HostTools\Temp\bin\Debug\Newtonsoft.Json.dll
+D:\htang\Projects2\HostTools\HostTools\Temp\bin\Debug\UnityEditor.dll
+D:\htang\Projects2\HostTools\HostTools\Temp\bin\Debug\UnityEngine.dll
+D:\htang\Projects2\HostTools\HostTools\Temp\bin\Debug\UnityEngine.UI.dll
+D:\htang\Projects2\HostTools\HostTools\Temp\bin\Debug\Mono.Cecil.dll
+D:\htang\Projects2\HostTools\HostTools\Temp\bin\Debug\Unity.SerializationLogic.dll
+D:\htang\Projects2\HostTools\HostTools\Temp\bin\Debug\Unity.DataContract.dll
+D:\htang\Projects2\HostTools\HostTools\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+D:\htang\Projects2\HostTools\HostTools\Temp\bin\Debug\Unity.CecilTools.dll
+D:\htang\Projects2\HostTools\HostTools\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+D:\htang\Projects2\HostTools\HostTools\obj\Debug\Assembly-CSharp.dll
+D:\htang\Projects2\HostTools\HostTools\obj\Debug\Assembly-CSharp.pdb
